@@ -1,5 +1,5 @@
 # Forza-Horizon-4-Style-Menu
-FiveM Forum Post:https://forum.cfx.re/t/release-paid-humrp-mechanic-system/2867067
+FiveM Forum Post: https://forum.cfx.re/t/release-paid-humrp-mechanic-system/2867067
 
 # INSTALLATION GUIDE
 **1.** Clone the repository or Code > Download zip
@@ -13,5 +13,4 @@ FiveM Forum Post:https://forum.cfx.re/t/release-paid-humrp-mechanic-system/28670
 - If still not working please contact HUMRP Developement Team [HUMRP DISCORD](https://discord.gg/T4JHan2frY).
 
 Ⓒ ALL RIGHTS RESERVED TO HUMRP-SCRIPTS
-CAN ONLY BE ONLY DOWNLOADED FROM THE HUMRP OFFICIAL WEBSITES, ANY USE OF THE SCRIPT WITHOUT THE PERMISSION MAY RESULT IN A LAWSUIT.
- 
+CAN ONLY BE ONLY DOWNLOADED FROM THE HUMRP OFFICIAL WEBSITES/GITHUB, ANY USE OF THE SCRIPT FOR PROFIT MAY RESULT IN A LAWSUIT.
